@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 react native junior developer full-stack
 ----------------------------------------
 
-my name is : tawfik i'm full-stack junior mobile developer with framework react native
+my name is : tawfik i'm full-stack junior mobile developer with framework react native android & ios
 
 * 🌍  I'm based in brussels, belgium
 * 🧠  I'm learning react native
