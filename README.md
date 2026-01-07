@@ -102,7 +102,7 @@ I'm a passionate full-stack mobile developer specializing in React Native for bo
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
 <a href="https://www.threads.com/@tawfikcodes" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/fluency/48/threads.png" width="32" height="32" alt="Threads" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" />
 </a>
 <a href="https://www.youtube.com/@tawfjkfreelancer" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
